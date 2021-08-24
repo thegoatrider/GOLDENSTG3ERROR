@@ -1,1 +1,2 @@
-# GOLDENSTG3ERROR
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
